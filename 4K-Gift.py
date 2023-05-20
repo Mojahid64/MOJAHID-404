@@ -91,7 +91,7 @@ def v1():
             yaari.submit(rcrack1,uid,pwx,tl)
     print(50*'_')
     print(' [♥] Crack process has been completed')
-    print(' [♥] Ids saved in MOJAHID-404.txt,MOJAHID-404.txt')
+    print(' [♥] Ids saved in MOJAHID-40.txt,MOJAHID-404.txt')
     print(50*'_')
 def v2():
     user=[]
